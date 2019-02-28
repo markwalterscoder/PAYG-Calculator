@@ -1,0 +1,25 @@
+{
+  "name": "payg-calculator",
+  "version": "1.0.0",
+  "description": "Calculate Australian Pay-As-You-Go Tax amounts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markwalterscoder/PAYG-Calculator.git"
+  },
+  "author": "Mark Walters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markwalterscoder/PAYG-Calculator/issues"
+  },
+  "homepage": "https://github.com/markwalterscoder/PAYG-Calculator#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
+  }
+}
